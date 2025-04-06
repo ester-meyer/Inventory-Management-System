@@ -9,7 +9,7 @@ namespace BO
     public class Order
     {
         public int CustomerId { get; set; }
-        public bool IsNewCusotmer { get; set; }
+        public bool IsClubCustomer { get; set; }
         public List<ProductInOrder> Products  { get; set; }
         public double TotalPrice { get; set; }
         public Order(int customerId, bool isNewCustomer, List<Product> products, double totalPrice)

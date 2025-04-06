@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BlTest\\obj\\",
+      "outputPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,8 +112,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BL\\BL.csproj": {
-              "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BL\\BL.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BL\\BL.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BL\\BL.csproj"
             }
           }
         }

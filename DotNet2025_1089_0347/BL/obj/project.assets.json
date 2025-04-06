@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BL\\BL.csproj",
+      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BL\\BL.csproj",
+      "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\BL\\obj\\",
+      "outputPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,11 +94,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
             },
-            "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj": {
-              "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj"
             }
           }
         }
