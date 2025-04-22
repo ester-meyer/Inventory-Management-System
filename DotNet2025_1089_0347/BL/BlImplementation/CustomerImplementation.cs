@@ -1,5 +1,7 @@
 ﻿
 using BlApi;
+using BO;
+using System.Net.Http.Headers;
 
 namespace BlImplementation;
 
@@ -51,9 +53,9 @@ internal class CustomerImplementation : BlApi.ICustomer
         {
             return BO.Tools.Convert<DO.Customer, BO.Customer>( _dal.Customer.Read(id) );
         }
-        catch (Exception DoException)
+        catch (DO.DalNotExistIdException DoException)
         {
-            throw DoException;
+            throw new BLNotExistIdException("",DoException);
         }
     }
 
