@@ -12,6 +12,11 @@ namespace BO
         public List<Sale> SalesForProduct { get; set; }
         public double FinalPrice { get; set; }
 
+        public ProductInOrder(DO.Product product): base(product.Name ,(Categories)(int)product.Category ,product.Price ,product.AmountInStock,product.Id)
+        {
+            SalesForProduct = new List<Sale>();
+            FinalPrice = 0;
+        }
 
     }
 }

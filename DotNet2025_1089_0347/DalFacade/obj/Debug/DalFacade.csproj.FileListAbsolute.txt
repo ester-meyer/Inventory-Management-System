@@ -44,3 +44,15 @@ F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\proj
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\bin\DalFacade.deps.json
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\bin\DalFacade.dll
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\bin\DalFacade.pdb
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.sourcelink.json
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.dll
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
+F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll
