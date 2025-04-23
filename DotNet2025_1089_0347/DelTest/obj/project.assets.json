@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
+      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
       "projectName": "DelTest",
-      "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
+      "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DelTest\\obj\\",
+      "outputPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DelTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,11 +94,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
             },
-            "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj": {
-              "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj"
             }
           }
         }
