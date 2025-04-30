@@ -1,15 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+﻿using DalApi;
 
 namespace Dal
 {
-    internal class DalXml:IDal
+    sealed internal class DalXml : IDal
     {
+        private static readonly IDal instance = new DalXml();
+        public static IDal Instance
+        {
+            get { return instance; }
+        }
+
+        public ICustomer Customer => throw new NotImplementedException();
+
+        public IProduct Product => throw new NotImplementedException();
+
+        public ISale Sale => throw new NotImplementedException();
+
+        private DalXml()
+        {
+
+        }
 
     }
 }
