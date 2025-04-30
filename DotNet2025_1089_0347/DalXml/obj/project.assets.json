@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net8.0": {
       "DalFacade/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -22,35 +22,33 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net8.0": [
       "DalFacade >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yudite\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\יד\\שבבים\\C# מתקדם\\יהודית ומינדי\\from git\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalXml\\DalXml.csproj",
+      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalXml\\DalXml.csproj",
       "projectName": "DalXml",
-      "projectPath": "T:\\יד\\שבבים\\C# מתקדם\\יהודית ומינדי\\from git\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalXml\\DalXml.csproj",
-      "packagesPath": "C:\\Users\\yudite\\.nuget\\packages\\",
-      "outputPath": "T:\\יד\\שבבים\\C# מתקדם\\יהודית ומינדי\\from git\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalXml\\obj\\",
+      "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalXml\\DalXml.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalXml\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\yudite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -58,11 +56,11 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
-            "T:\\יד\\שבבים\\C# מתקדם\\יהודית ומינדי\\from git\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "T:\\יד\\שבבים\\C# מתקדם\\יהודית ומינדי\\from git\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
+            "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj"
             }
           }
         }
@@ -71,11 +69,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -92,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
