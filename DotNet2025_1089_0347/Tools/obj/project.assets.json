@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\Tools\\Tools.csproj",
+      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\Tools\\Tools.csproj",
       "projectName": "Tools",
-      "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\Tools\\Tools.csproj",
+      "projectPath": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\Tools\\Tools.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\Tools\\obj\\",
+      "outputPath": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\Tools\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

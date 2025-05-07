@@ -39,3 +39,17 @@ F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\proj
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
 F:\seconde year\cisharp\C#.NET\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\bin\DalList.deps.json
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\bin\DalList.dll
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\bin\DalList.pdb
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfo.cs
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.sourcelink.json
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.Up2Date
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.dll
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
+F:\seconde year\cisharp\project2\from school\C-project\my-c-.net-project\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll

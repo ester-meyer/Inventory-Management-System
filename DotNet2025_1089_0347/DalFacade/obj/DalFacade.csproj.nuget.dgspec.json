@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {}
+    "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {}
   },
   "projects": {
-    "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
+    "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
+        "projectPath": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#.net\\C#-project\\project\\DotNet2025_1089_0347\\DalFacade\\obj\\",
+        "outputPath": "F:\\seconde year\\cisharp\\project2\\from school\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -58,11 +58,13 @@ internal class ProductImplementation : BlApi.IProduct
         }
     }
 
-    public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filter = null)
+    public List<BO.Product?> ReadAll(Func<DO.Product, bool>? filter = null)
     {
         try
         {
-            return _dal.Product.ReadAll().Select(BO.Tools.Convert<DO.Product, BO.Product>).Where(filter).ToList();
+            List<DO.Product> doProducts = _dal.Product.ReadAll(filter);
+            List<BO.Product> boProducts = doProducts.Select(BO.Tools.Convert<DO.Product, BO.Product>).ToList();
+            return boProducts;
         }
         catch (Exception DoException)
         {
