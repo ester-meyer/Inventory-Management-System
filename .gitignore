@@ -20,3 +20,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+DotNet2025_1089_0347/DelTest/obj/Debug/*
