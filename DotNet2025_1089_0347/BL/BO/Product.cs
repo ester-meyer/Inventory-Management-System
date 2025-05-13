@@ -18,7 +18,7 @@
 
         public override string ToString()
         {
-            return string.Format("name=", Name, " category=", Category, " price=", Price, " amount-in-stock=", AmountInStock, " id=", Id);
+            return $"product [name =  {Name},  category = {Category}, price = {Price}, amount-in-stock= {AmountInStock}, id = {Id}]";
         }
     }
 }

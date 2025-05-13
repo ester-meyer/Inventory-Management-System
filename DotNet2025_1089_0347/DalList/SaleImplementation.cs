@@ -22,7 +22,7 @@ internal class SaleImplementation : ISale
     public List<Sale> ReadAll(Func<Sale, bool>? filter = null)
     {
         return filter == null ?
-            DataSource.Sales.ToList() :
+            DataSource.Sales:
             DataSource.Sales.Where(s => filter(s)).ToList();
     }
     public void Update(Sale item)

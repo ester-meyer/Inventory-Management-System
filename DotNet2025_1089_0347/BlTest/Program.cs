@@ -33,8 +33,7 @@ namespace BlTest
                         CustomerImplementation(subSelect);
                         break;
                     case 4:
-                        subSelect = printSubMenu<IOrder>();
-                        // OrderImplementation(subSelect);
+                        BuildOrder();
                         break;
                     default:
                         Console.WriteLine("Wrong selection, please select again");
@@ -50,7 +49,7 @@ namespace BlTest
             Console.WriteLine("For product press 1");
             Console.WriteLine("For sale press 2");
             Console.WriteLine("For customrer press 3");
-            Console.WriteLine("For order press 3");
+            Console.WriteLine("For order press 4");
             Console.WriteLine("To exit press 0");
 
             int select;
@@ -92,10 +91,10 @@ namespace BlTest
                     Console.WriteLine(s_bl.Sale.Read(ChooseFilter<Sale>()));
                     break;
                 case 5:
-                    Console.WriteLine(s_bl.Sale.ReadAll(ChooseFilter<Sale>()));
+                    s_bl.Sale.ReadAll(ChooseFilter<DO.Sale>()).ForEach(s => Console.WriteLine(s.ToStringProperty()));
                     break;
                 case 6:
-                    s_bl.Sale.Update(BuildSale());
+                    s_bl.Sale.Update(BuildSale(GetId("sale")));
                     break;
                 default:
                     Console.WriteLine("Wrong selection.");
@@ -119,10 +118,10 @@ namespace BlTest
                     Console.WriteLine(s_bl.Product.Read(ChooseFilter<Product>()));
                     break;
                 case 5:
-                    Console.WriteLine(s_bl.Product.ReadAll());
+                    s_bl.Product.ReadAll().ForEach(p => Console.WriteLine(p.ToStringProperty()));
                     break;
                 case 6:
-                    s_bl.Product.Update(BuildProduct());
+                    s_bl.Product.Update(BuildProduct(GetId("product")));
                     break;
                 default:
                     Console.WriteLine("Wrong selection.");
@@ -146,10 +145,10 @@ namespace BlTest
                     Console.WriteLine(s_bl.Customer.Read(GetId("customer")));
                     break;
                 case 5:
-                    Console.WriteLine(s_bl.Customer.Read(ChooseFilter<Customer>()));
+                    Console.WriteLine(s_bl.Customer.Read(ChooseFilter<DO.Customer>()));
                     break;
                 case 6:
-                    Console.WriteLine(s_bl.Customer.ReadAll());
+                    s_bl.Customer.ReadAll().ForEach(c => Console.WriteLine(c.ToStringProperty()));
                     break;
                 case 7:
                     s_bl.Customer.Update(BuildCustomer());
@@ -160,7 +159,7 @@ namespace BlTest
             }
         }
 
-        private static Product BuildProduct()
+        private static Product BuildProduct(int id = 0)
         {
             Console.WriteLine("enter name");
             string name = Console.ReadLine();
@@ -184,9 +183,9 @@ namespace BlTest
                 Console.WriteLine("enter amount in stock");
             } while (!int.TryParse(Console.ReadLine(), out amountInStock));
 
-            return new Product(name, category, price, amountInStock);
+            return new Product(name, category, price, amountInStock) { Id = id };
         }
-        private static Sale BuildSale()
+        private static Sale BuildSale(int id = 0)
         {
             int productId;
             do
@@ -224,7 +223,7 @@ namespace BlTest
                 Console.WriteLine("enter end date");
             } while (!DateOnly.TryParse(Console.ReadLine(), out end));
 
-            return new Sale(productId, amount, totalPrice, forClubCustomers, start, end);
+            return new Sale(productId, amount, totalPrice, forClubCustomers, start, end) { Id = id };
         }
         private static Customer BuildCustomer()
         {

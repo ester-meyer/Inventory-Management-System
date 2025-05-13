@@ -1,8 +1,10 @@
-﻿namespace BO;
+﻿using System.Diagnostics;
+using System.Xml.Linq;
+
+namespace BO;
 
 public class Sale
 {
-    public static int NextId { get; set; } = 3000;
     public int? ProductId { get; set; }
     public int Amount { get; set; }
     public double TotalPrice { get; set; }
@@ -24,9 +26,5 @@ public class Sale
     {
     }
 
-    public override string ToString()
-    {
-        return string.Format("product-id=", ProductId, " amount=", Amount, " total-price=", TotalPrice, " for-club-customers=", ForClubCustomers, " sale-start-date=", SaleStartDate
-            , " sale-end-date=", SaleEndDate, " id=", Id);
-    }
+
 }

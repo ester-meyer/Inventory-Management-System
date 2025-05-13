@@ -4,7 +4,7 @@ using System.Xml.Linq;
 namespace BO;
 
 
-static internal class Tools
+static public class Tools
 {
     public static string ToStringProperty<T>(this T obj, string prefix = "\t")
     {
@@ -13,7 +13,7 @@ static internal class Tools
         foreach (PropertyInfo prop in type.GetProperties())
         {
             var value = prop.GetValue(obj);
-            if (value != null && !prop.PropertyType.IsPrimitive && prop.PropertyType != typeof(string))
+            if (value != null && !prop.PropertyType.IsPrimitive && prop.PropertyType != typeof(string) && prop.PropertyType.IsEnum)
             {
                 sb.AppendLine($"{prefix}{prop.Name}:");
                 sb.Append(ToStringProperty(value, prefix + prefix));

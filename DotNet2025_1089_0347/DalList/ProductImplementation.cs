@@ -24,7 +24,7 @@ internal class ProductImplementation:IProduct
     public List<Product> ReadAll(Func<Product, bool>? filter = null)
     {
         return filter == null ?
-            DataSource.Products.ToList() :
+            DataSource.Products :
             DataSource.Products.Where(p => filter(p)).ToList();
     }
     public void Update(Product item)
