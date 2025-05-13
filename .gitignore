@@ -21,3 +21,15 @@ rad.json
 #Test results file
 TestResults.xml
 DotNet2025_1089_0347/DelTest/obj/Debug/*
+
+
+#bin,obj and .vs files
+DotNet2025_1089_0347/.vs/*
+DotNet2025_1089_0347/BL/obj/*
+DotNet2025_1089_0347/BlTest/obj/*
+DotNet2025_1089_0347/DalFacade/obj/*
+DotNet2025_1089_0347/DalList/obj/*
+DotNet2025_1089_0347/DelTest/obj/*
+DotNet2025_1089_0347/Tools/obj/*
+DotNet2025_1089_0347/bin/*
+

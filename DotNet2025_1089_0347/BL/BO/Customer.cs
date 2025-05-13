@@ -12,10 +12,11 @@ namespace BO
         public string Name { get; set; }
         public string? Address { get; set; }
         public string PhoneNumber { get; set; }
+        public bool IsClubCustomer {  get; set; }
         public Customer(int id, string name, string adderss, string phoneNumber)
         {
             Id = id;
-
+            IsClubCustomer = false;
         }
         public Customer() { }
 

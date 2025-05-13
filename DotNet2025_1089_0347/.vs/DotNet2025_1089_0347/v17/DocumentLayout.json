@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|f:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\c-project\\my-c-.net-project\\dotnet2025_1089_0347\\dalfacade\\dalfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B16781B-A1FF-4D3D-B9AD-C471B3EA286F}|BlTest\\BlTest.csproj|f:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\c-project\\my-c-.net-project\\dotnet2025_1089_0347\\bltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B16781B-A1FF-4D3D-B9AD-C471B3EA286F}|BlTest\\BlTest.csproj|solutionrelative:bltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -127,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{2B16781B-A1FF-4D3D-B9AD-C471B3EA286F}|BlTest\\BlTest.csproj|solutionrelative:bltest\\bltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|f:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\c-project\\my-c-.net-project\\dotnet2025_1089_0347\\dalfacade\\dalfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalfacade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|f:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\c-project\\my-c-.net-project\\dotnet2025_1089_0347\\dalfacade\\dalapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61060C22-2373-476A-8E54-06A84E4BF1C7}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -157,7 +157,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -177,19 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductImplementation.cs",
-              "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\ProductImplementation.cs",
-              "RelativeDocumentMoniker": "BL\\BlImplementation\\ProductImplementation.cs",
-              "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\ProductImplementation.cs",
-              "RelativeToolTip": "BL\\BlImplementation\\ProductImplementation.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowFIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:11:24.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SaleImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\SaleImplementation.cs",
               "RelativeDocumentMoniker": "BL\\BlImplementation\\SaleImplementation.cs",
@@ -201,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ISale.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlApi\\ISale.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\ISale.cs",
@@ -213,20 +201,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\Program.cs",
               "RelativeDocumentMoniker": "BlTest\\Program.cs",
               "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\Program.cs",
               "RelativeToolTip": "BlTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:49:22.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\CustomerImplementation.cs",
               "RelativeDocumentMoniker": "BL\\BlImplementation\\CustomerImplementation.cs",
@@ -238,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ICustomer.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlApi\\ICustomer.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\ICustomer.cs",
@@ -250,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OrderImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\OrderImplementation.cs",
               "RelativeDocumentMoniker": "BL\\BlImplementation\\OrderImplementation.cs",
@@ -262,7 +250,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "DalFacade.csproj",
+              "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
+              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
+              "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
+              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T13:47:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\BlImplementation\\ProductImplementation.cs",
+              "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlImplementation\\ProductImplementation.cs",
+              "RelativeToolTip": "BL\\BlImplementation\\ProductImplementation.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:11:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\Product.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Product.cs",
@@ -274,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICrud.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalApi\\ICrud.cs",
               "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICrud.cs",
@@ -286,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CustomerImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\CustomerImplementation.cs",
               "RelativeDocumentMoniker": "DalList\\CustomerImplementation.cs",
@@ -298,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Tools.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\Tools.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Tools.cs",
@@ -310,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Sale.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\Sale.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Sale.cs",
@@ -322,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductInOrder.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\ProductInOrder.cs",
               "RelativeDocumentMoniker": "BL\\BO\\ProductInOrder.cs",
@@ -334,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\Program.cs",
               "RelativeDocumentMoniker": "DelTest\\Program.cs",
@@ -346,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DelTest.csproj",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
               "RelativeDocumentMoniker": "DelTest\\DelTest.csproj",
@@ -358,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Custemor.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DO\\Custemor.cs",
               "RelativeDocumentMoniker": "DalFacade\\DO\\Custemor.cs",
@@ -370,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SaleImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\SaleImplementation.cs",
               "RelativeDocumentMoniker": "DalList\\SaleImplementation.cs",
@@ -382,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ProductImplementation.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\ProductImplementation.cs",
               "RelativeDocumentMoniker": "DalList\\ProductImplementation.cs",
@@ -394,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DataSource.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\DataSource.cs",
               "RelativeDocumentMoniker": "DalList\\DataSource.cs",
@@ -406,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DalList.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\DalList.cs",
               "RelativeDocumentMoniker": "DalList\\DalList.cs",
@@ -418,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Order.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\Order.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Order.cs",
@@ -430,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Sale.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DO\\Sale.cs",
               "RelativeDocumentMoniker": "DalFacade\\DO\\Sale.cs",
@@ -442,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Product.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DO\\Product.cs",
               "RelativeDocumentMoniker": "DalFacade\\DO\\Product.cs",
@@ -454,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Customer.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BO\\Customer.cs",
               "RelativeDocumentMoniker": "BL\\BO\\Customer.cs",
@@ -466,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IProduct.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlApi\\IProduct.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\IProduct.cs",
@@ -478,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Enums.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DO\\Enums.cs",
               "RelativeDocumentMoniker": "DalFacade\\DO\\Enums.cs",
@@ -490,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "DalList.csproj",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalList\\DalList.csproj",
               "RelativeDocumentMoniker": "DalList\\DalList.csproj",
@@ -502,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Exceptions.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DO\\Exceptions.cs",
               "RelativeDocumentMoniker": "DalFacade\\DO\\Exceptions.cs",
@@ -514,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Initialization.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\Initialization.cs",
               "RelativeDocumentMoniker": "DelTest\\Initialization.cs",
@@ -526,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IOrder.cs",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BlApi\\IOrder.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\IOrder.cs",
@@ -538,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "BlTest.csproj",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
               "RelativeDocumentMoniker": "BlTest\\BlTest.csproj",
@@ -547,18 +560,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-05T11:29:48.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DalFacade.csproj",
-              "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
-              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
-              "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
-              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T13:47:17.913Z"
             },
             {
               "$type": "Document",

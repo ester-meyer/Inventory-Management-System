@@ -4,7 +4,7 @@
         (
         string? Name,
         Categories? Category,
-        double? Price,
+        double Price,
         int? AmountInStock,
         int Id=0)
     {

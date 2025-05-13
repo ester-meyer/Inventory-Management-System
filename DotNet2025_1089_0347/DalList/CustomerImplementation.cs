@@ -25,7 +25,7 @@ internal class CustomerImplementation : ICustomer
     public List<Customer> ReadAll(Func<Customer, bool>? filter = null)
     {
         return filter == null ?
-            DataSource.Customers.ToList() :
+            DataSource.Customers:
             DataSource.Customers.Where(c => filter(c)).ToList();
     }
     public void Update(Customer item)

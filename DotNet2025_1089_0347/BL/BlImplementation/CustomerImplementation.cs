@@ -12,10 +12,10 @@ internal class CustomerImplementation : BlApi.ICustomer
     {
         try
         {
-            DO.Customer customer=BO.Tools.Convert< BO.Customer,DO.Customer>(item);//how to use it by extention method
+            DO.Customer customer = BO.Tools.Convert<BO.Customer, DO.Customer>(item);//how to use it by extention method
             return _dal.Customer.Create(customer);
         }
-        catch(Exception DoException)
+        catch (Exception DoException)
         {
             throw DoException;
         }
@@ -49,7 +49,7 @@ internal class CustomerImplementation : BlApi.ICustomer
     {
         try
         {
-            return BO.Tools.Convert<DO.Customer, BO.Customer>( _dal.Customer.Read(id) );
+            return BO.Tools.Convert<DO.Customer, BO.Customer>(_dal.Customer.Read(id));
         }
         catch (Exception DoException)
         {
@@ -57,11 +57,11 @@ internal class CustomerImplementation : BlApi.ICustomer
         }
     }
 
-    public BO.Customer? Read(Func<BO.Customer, bool> filter)
+    public BO.Customer? Read(Func<DO.Customer, bool> filter)
     {
         try
         {
-            return _dal.Customer.ReadAll().Select(BO.Tools.Convert<DO.Customer, BO.Customer>).FirstOrDefault(filter);//Read(Func<Customer, bool> filter) in DO is not used
+            return _dal.Customer.ReadAll(filter).Select(BO.Tools.Convert<DO.Customer, BO.Customer>).FirstOrDefault();//Read(Func<Customer, bool> filter) in DO is not used
         }
         catch (Exception DoException)
         {
@@ -69,11 +69,11 @@ internal class CustomerImplementation : BlApi.ICustomer
         }
     }
 
-    public List<BO.Customer?> ReadAll(Func<BO.Customer, bool>? filter = null)
+    public List<BO.Customer> ReadAll(Func<DO.Customer, bool>? filter = null)
     {
         try
         {
-            return _dal.Customer.ReadAll().Select(BO.Tools.Convert<DO.Customer, BO.Customer>).Where(filter).ToList();//Read(Func<Customer, bool> filter) in DO is not used
+            return  _dal.Customer.ReadAll(filter).Select(BO.Tools.Convert<DO.Customer, BO.Customer>).ToList();
         }
         catch (Exception DoException)
         {

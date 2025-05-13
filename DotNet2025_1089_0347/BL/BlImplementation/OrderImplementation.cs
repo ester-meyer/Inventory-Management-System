@@ -1,5 +1,5 @@
-﻿
-
+﻿using System.Diagnostics;
+using System.Xml.Linq;
 
 namespace BlImplementation;
 
@@ -7,26 +7,22 @@ internal class OrderImplementation : BlApi.IOrder
 {
     private DalApi.IDal _dal = DalApi.Factory.Get;
 
-    public bool AddProduct(int productId, int amount)
-    {
-        throw new NotImplementedException();
-    }
 
-    public void CalcProductTotalPrice(BO.ProductInOrder product)
+    public void CalcProductTotalPrice(BO.ProductInOrder productInOrder)
     {
-        int count = product.AmountInOrder;
+        int count = productInOrder.AmountInOrder;
         double totalPrice = 0;
         List<BO.Sale> salesUsed = new List<BO.Sale>();
-        foreach (BO.Sale sale in product.SalesForProduct)
+        foreach (BO.Sale sale in productInOrder.SalesForProduct)
         {
             if (count < sale.Amount)
             {
                 continue;
             }
 
-            int applicableTimes = (count / sale.Amount); // times to use sale
-            totalPrice += (applicableTimes * sale.TotalPrice); // add to total price
-            count -= applicableTimes * sale.Amount; // update amount
+            int timesUseSale = (count / sale.Amount); // times to use sale
+            totalPrice += (timesUseSale * sale.TotalPrice); // add to total price
+            count -= timesUseSale * sale.Amount; // update amount
 
             salesUsed.Add(sale); // sales used
 
@@ -35,38 +31,23 @@ internal class OrderImplementation : BlApi.IOrder
                 break; // if products finished
             }
         }
-        totalPrice += (count * product.Price);
-        product.SalesForProduct=salesUsed;
-        product.FinalPrice = totalPrice;
+        totalPrice += (count * productInOrder.Product.Price); // products not with sale
+        productInOrder.SalesForProduct = salesUsed;
+        productInOrder.FinalPrice = totalPrice;
     }
 
-
-
-    public double CalcTotalPrice()
+    public void SearchSaleForProduct(bool isClubCustomer, BO.ProductInOrder productInOrder)
     {
-        throw new NotImplementedException();
-    }
+       
 
 
-    public int Create(BO.Order item)
-    {
-        throw new NotImplementedException();
-    }
-
-    public bool Handling()
-    {
-        throw new NotImplementedException();
-    }
-
-    public void SearchSaleForProduct(bool isClubCustomer, BO.ProductInOrder product)
-    {
         DateOnly now = DateOnly.FromDateTime(DateTime.Now);
-        product.SalesForProduct = _dal.Sale.ReadAll()
+        productInOrder.SalesForProduct = _dal.Sale.ReadAll()
             .Select(BO.Tools.Convert<DO.Sale, BO.Sale>)
-            .Where(s => s.ProductId == product.Id &&
+            .Where(s => s.ProductId == productInOrder.Product.Id &&
                         s.SaleStartDate < now &&
                         s.SaleEndDate > now &&
-                        product.AmountInOrder >= s.Amount &&
+                        productInOrder.AmountInOrder >= s.Amount &&
                         (isClubCustomer || s.ForClubCustomers == false))
             .OrderBy(s => (s.TotalPrice / s.Amount))
             .ToList();
@@ -78,53 +59,31 @@ internal class OrderImplementation : BlApi.IOrder
     }
     public List<BO.Sale> AddProductToOrder(BO.Order item, int productId, int amount)
     {
-        int? amountInStock = _dal.Product.ReadAll().First(p => p.Id == productId).AmountInStock;//get anount in stock of product
-        BO.ProductInOrder productInOrder = item.Products.First(p => p.Id == productId);//get the product from ordet if exists in the order
-        if ( productInOrder != null )
+        DO.Product DoProduct = _dal.Product.ReadAll().First(p => p.Id == productId);
+        int? amountInStock = DoProduct.AmountInStock;  //get anount in stock of product
+        BO.ProductInOrder? productInOrder = item.Products.FirstOrDefault(p => p.Product.Id == productId);  //get the product from ordet if exists in the order
+        if (productInOrder == null)
         {
-            if (amountInStock < amount)
-                throw new Exception("product not in stock");
-            else
-            {
-                productInOrder.AmountInOrder += amount;
-                //update stock in DO.Product
-
-            }
+            productInOrder = new BO.ProductInOrder(BO.Tools.Convert<DO.Product,BO.Product>(DoProduct),amount);
+            if (amountInStock >= amount)
+                item.Products.Add(productInOrder);
         }
-        else
-        {
-            productInOrder = new BO.ProductInOrder();
-            //productInOrder.Id = productId;
-        }
-        //SearchSaleForProduct(?, productInOrder);
-        //SearchSaleForProduct(?,productInOrder);
+        productInOrder.AmountInOrder += amount;
+        if (amountInStock < productInOrder.AmountInOrder)
+            throw new Exception($"Product not in stock.\n Only {amountInStock} in stock.");
+        SearchSaleForProduct(item.IsClubCustomer, productInOrder);
+        CalcProductTotalPrice(productInOrder);
         CalcTotalPrice(item);
         return productInOrder.SalesForProduct;
     }
 
     public void DoOrder(BO.Order item)
     {
-        foreach(BO.ProductInOrder productInOrder in item.Products)
+        foreach (BO.ProductInOrder productInOrder in item.Products)
         {
-            //_dal.Product.Update()
+            BO.Product p = productInOrder.Product;
+            p.AmountInStock -= productInOrder.AmountInOrder;
+            _dal.Product.Update(BO.Tools.Convert<BO.Product, DO.Product>(p));
         }
     }
 }
-
-
-
-
-//4.	AddProductToOrder – הוספת מוצר להזמנה.
-//מקבלת כפרמטרים: הזמנה, מזהה מוצר להוספה וכמות להוספה (יכולה להיות שלילית)
-//מחזירה רשימת מבצעים שמומשו עבור מוצר זה בהזמנה זו.
-//מימוש הפונקציה:
-//שולפים את המוצר הנבחר מהזיכרון(פניה ל DAL)
-//מנסים למצוא את המוצר הנבחר ברשימת המוצרים בהזמנה
-//אם קיים – בודקים שלאחר הוספת הכמות המבוקשת, יש מספיק במלאי מהמוצר ומעדכנים את הכמות בהזמנה. (אם אין מספיק במלאי – זורקים שגיאה מתאימה)
-//אם המוצר עדיין לא קיים בהזמנה, בודקים שיש במלאי את הכמות המבוקשת ומוסיפים מוצר חדש להזמנה(אם אין מספיק במלאי – זורקים שגיאה מתאימה)
-//בודקים מה המבצעים הקיימים למוצר זה(SearchSalesForProduct)
-//מחשבים את המחיר למוצר זה כולל מימוש המבצעים(CalcTotalPriceForProduct)
-//מחשבים את המחיר הסופי להזמנה(CalcTotalPrice)
-//מחזירים את רשימת המבצעים שמומשו.
-//5.	DoOrder – מקבלת כפרמטר הזמנה ולא מחזירה ערך.
-//עבור כל מוצר בהזמנה, מייצרים בקשת עדכון ל DAL כדי להוריד ממלאי המוצר את הכמות שב

@@ -40,6 +40,20 @@
           "bin/placeholder/DalList.dll": {}
         }
       },
+      "DelTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DalFacade": "1.0.0",
+          "DalList": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DelTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DelTest.dll": {}
+        }
+      },
       "Tools/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -68,6 +82,11 @@
       "path": "../DalList/DalList.csproj",
       "msbuildProject": "../DalList/DalList.csproj"
     },
+    "DelTest/1.0.0": {
+      "type": "project",
+      "path": "../DelTest/DelTest.csproj",
+      "msbuildProject": "../DelTest/DelTest.csproj"
+    },
     "Tools/1.0.0": {
       "type": "project",
       "path": "../Tools/Tools.csproj",
@@ -76,7 +95,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BL >= 1.0.0"
+      "BL >= 1.0.0",
+      "DelTest >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -114,6 +134,9 @@
           "projectReferences": {
             "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BL.csproj": {
               "projectPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BL.csproj"
+            },
+            "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj": {
+              "projectPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj"
             }
           }
         }

@@ -66,11 +66,12 @@ internal class SaleImplementation : BlApi.ISale
         }
     }
 
-    public List<BO.Sale?> ReadAll(Func<BO.Sale, bool>? filter = null)
+    public List<BO.Sale?> ReadAll(Func<DO.Sale, bool>? filter = null)
     {
         try
         {
-            return _dal.Sale.ReadAll().Select(BO.Tools.Convert<DO.Sale, BO.Sale>).Where(filter).ToList();
+            return _dal.Sale.ReadAll(filter).Select(BO.Tools.Convert<DO.Sale, BO.Sale>).ToList();
+
         }
         catch (Exception DoException)
         {

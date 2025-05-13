@@ -185,8 +185,7 @@
               "RelativeToolTip": "BL\\BlImplementation\\ProductImplementation.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAowFIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:11:24.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:11:24.82Z"
             },
             {
               "$type": "Document",
@@ -198,8 +197,7 @@
               "RelativeToolTip": "BL\\BlImplementation\\SaleImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:04:33.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:04:33.797Z"
             },
             {
               "$type": "Document",
@@ -211,8 +209,7 @@
               "RelativeToolTip": "BL\\BlApi\\ISale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:00:23.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:00:23.889Z"
             },
             {
               "$type": "Document",
@@ -222,7 +219,7 @@
               "RelativeDocumentMoniker": "BlTest\\Program.cs",
               "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\Program.cs",
               "RelativeToolTip": "BlTest\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:49:22.066Z",
               "EditorCaption": ""
@@ -237,8 +234,7 @@
               "RelativeToolTip": "BL\\BlImplementation\\CustomerImplementation.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:12:37.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:12:37.834Z"
             },
             {
               "$type": "Document",
@@ -250,8 +246,7 @@
               "RelativeToolTip": "BL\\BlApi\\ICustomer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:01:32.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:01:32.583Z"
             },
             {
               "$type": "Document",
@@ -263,8 +258,7 @@
               "RelativeToolTip": "BL\\BlImplementation\\OrderImplementation.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAA2wF0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:12:19.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T15:12:19.413Z"
             },
             {
               "$type": "Document",
@@ -276,8 +270,7 @@
               "RelativeToolTip": "BL\\BO\\Product.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:49:30.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:49:30.531Z"
             },
             {
               "$type": "Document",
@@ -289,8 +282,7 @@
               "RelativeToolTip": "DalFacade\\DalApi\\ICrud.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:16:01.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T20:16:01.822Z"
             },
             {
               "$type": "Document",
@@ -302,8 +294,7 @@
               "RelativeToolTip": "DalList\\CustomerImplementation.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:34:45.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T16:34:45.14Z"
             },
             {
               "$type": "Document",
@@ -315,8 +306,7 @@
               "RelativeToolTip": "BL\\BO\\Tools.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:27:21.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T14:27:21.142Z"
             },
             {
               "$type": "Document",
@@ -328,8 +318,7 @@
               "RelativeToolTip": "BL\\BO\\Sale.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIA7wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:49:06.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:49:06.36Z"
             },
             {
               "$type": "Document",
@@ -341,8 +330,7 @@
               "RelativeToolTip": "BL\\BO\\ProductInOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:33:22.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:33:22.085Z"
             },
             {
               "$type": "Document",
@@ -354,21 +342,19 @@
               "RelativeToolTip": "DelTest\\Program.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAAAMwI0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:24:21.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T16:24:21.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "DelTest",
+              "Title": "DelTest.csproj",
               "DocumentMoniker": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
               "RelativeDocumentMoniker": "DelTest\\DelTest.csproj",
               "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj",
               "RelativeToolTip": "DelTest\\DelTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T18:59:32.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T18:59:32.067Z"
             },
             {
               "$type": "Document",
@@ -380,8 +366,7 @@
               "RelativeToolTip": "DalFacade\\DO\\Custemor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:54:35.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T16:54:35.492Z"
             },
             {
               "$type": "Document",
@@ -393,8 +378,7 @@
               "RelativeToolTip": "DalList\\SaleImplementation.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:05:05.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:05:05.375Z"
             },
             {
               "$type": "Document",
@@ -406,8 +390,7 @@
               "RelativeToolTip": "DalList\\ProductImplementation.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA2wBsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:04:54.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:04:54.829Z"
             },
             {
               "$type": "Document",
@@ -419,8 +402,7 @@
               "RelativeToolTip": "DalList\\DataSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:05:00.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:05:00.109Z"
             },
             {
               "$type": "Document",
@@ -432,8 +414,7 @@
               "RelativeToolTip": "DalList\\DalList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:03:03.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:03:03.976Z"
             },
             {
               "$type": "Document",
@@ -445,8 +426,7 @@
               "RelativeToolTip": "BL\\BO\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:28:01.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T12:28:01.389Z"
             },
             {
               "$type": "Document",
@@ -458,8 +438,7 @@
               "RelativeToolTip": "DalFacade\\DO\\Sale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T17:36:49.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T17:36:49.047Z"
             },
             {
               "$type": "Document",
@@ -471,8 +450,7 @@
               "RelativeToolTip": "DalFacade\\DO\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:00:30.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:00:30.525Z"
             },
             {
               "$type": "Document",
@@ -484,8 +462,7 @@
               "RelativeToolTip": "BL\\BO\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:47:39.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:47:39.88Z"
             },
             {
               "$type": "Document",
@@ -509,8 +486,7 @@
               "RelativeToolTip": "DalFacade\\DO\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:03:52.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T18:03:52.409Z"
             },
             {
               "$type": "Document",
@@ -522,8 +498,7 @@
               "RelativeToolTip": "DalList\\DalList.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T11:04:42.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:04:42.285Z"
             },
             {
               "$type": "Document",
@@ -571,8 +546,7 @@
               "RelativeToolTip": "BlTest\\BlTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T11:29:48.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:29:48.71Z"
             },
             {
               "$type": "Document",
@@ -584,8 +558,7 @@
               "RelativeToolTip": "DalFacade\\DalFacade.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-07T13:47:17.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:47:17.913Z"
             },
             {
               "$type": "Document",
@@ -629,8 +602,7 @@
               "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\Tools\\Tools.csproj",
               "RelativeToolTip": "Tools\\Tools.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T11:01:17.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:01:17.044Z"
             },
             {
               "$type": "Document",
@@ -641,8 +613,7 @@
               "ToolTip": "F:\\seconde year\\cisharp\\project2\\\u200F\u200Ffrom school - \u05E2\u05D5\u05EA\u05E7\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DalFacade\\DalFacade.csproj",
               "RelativeToolTip": "DalFacade\\DalFacade.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T11:00:53.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:00:53.731Z"
             }
           ]
         }
