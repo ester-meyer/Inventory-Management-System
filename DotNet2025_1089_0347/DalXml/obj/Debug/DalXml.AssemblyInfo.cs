@@ -14,8 +14,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DalXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD:DotNet2025_1089_0347/DalXml/obj/Debug/DalXml.AssemblyInfo.cs
 <<<<<<< HEAD:DotNet2025_1089_0347/BlTest/obj/Debug/BlTest.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+facd4dccce1984418e5772a6e52119b0d206bb8b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4de9ff7f13fb1700aac9303e2d43ac20c9eaf7d6")]
+>>>>>>> b72dd11c1583d4446de4027a479e34003975a738:DotNet2025_1089_0347/BlTest/obj/Debug/BlTest.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyProductAttribute("BlTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlTest")]
 =======

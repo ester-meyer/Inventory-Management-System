@@ -20,6 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+<<<<<<< HEAD
 DotNet2025_1089_0347/DelTest/obj/Debug/*
 
 
@@ -33,3 +34,97 @@ DotNet2025_1089_0347/DelTest/obj/*
 DotNet2025_1089_0347/Tools/obj/*
 DotNet2025_1089_0347/bin/*
 
+=======
+
+# קבצים ותיקיות של Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# קבצים ותיקיות של Build
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.log
+*.tlog
+*.lastbuildstate
+
+# קבצים זמניים
+*.tmp
+*.temp
+*.cache
+*.csproj.user
+*.rsuser
+*.pdb
+*.ilk
+*.idb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# קבצים של מערכת
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# קבצים של Git
+*.orig
+*.rej
+*.diff
+*.patch
+
+# קבצים של NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# קבצים של Rider/JetBrains
+.idea/
+*.sln.iml
+
+# קבצים של Azure
+.localhistory/
+*.publishsettings
+*.azurePubxml
+*.azurePubxml.user
+
+# קבצים של Docker
+docker-compose.override.yml
+.docker/
+
+# קבצים של npm/Node.js (אם יש שימוש)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# קבצים של כלי ניתוח קוד
+*.coverage
+*.coveragexml
+*.codecov
+*.axml
+*.crash
+*.error
+*.log
+
+# קבצים של כלי CI/CD
+*.yml
+*.yaml
+*.env
+
+# קבצים של טסטים
+TestResults/
+*.trx
+*.coverage
+*.testlog
+
+# קבצים של כלי ניהול פרויקטים
+.vscode/
+.idea/
+>>>>>>> b72dd11c1583d4446de4027a479e34003975a738

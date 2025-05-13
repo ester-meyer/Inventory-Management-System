@@ -22,7 +22,7 @@ namespace BO
         public Order() { }
         public override string ToString()
         {
-            return string.Format("customer-id=", CustomerId, " is-new-customer=", IsClubCustomer, " products=", Products, " totol-price=", TotalPrice);
+            return string.Format("customer-id=", CustomerId, " is-new-customer=", IsNewCusotmer, " products=", Products, " totol-price=", TotalPrice);
         }
     }
 }
