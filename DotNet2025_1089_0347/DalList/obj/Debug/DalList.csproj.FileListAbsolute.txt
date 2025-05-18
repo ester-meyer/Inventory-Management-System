@@ -53,3 +53,17 @@ F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalList\obj\Debug\
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.deps.json
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.pdb
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.sourcelink.json
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll

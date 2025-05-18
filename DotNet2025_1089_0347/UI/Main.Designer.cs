@@ -3,12 +3,12 @@
     partial class Main
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -23,52 +23,56 @@
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            Manager = new Button();
-            Cashier = new Button();
-            SuspendLayout();
+            this.managerBtn = new System.Windows.Forms.Button();
+            this.CashierBtn = new System.Windows.Forms.Button();
+            this.SuspendLayout();
             // 
-            // Manager
+            // managerBtn
             // 
-            Manager.Cursor = Cursors.VSplit;
-            Manager.Location = new Point(424, 110);
-            Manager.Name = "Manager";
-            Manager.Size = new Size(75, 23);
-            Manager.TabIndex = 0;
-            Manager.Text = "Manager";
-            Manager.UseVisualStyleBackColor = true;
-            Manager.Click += Manager_Click;
+            this.managerBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(233)))), ((int)(((byte)(17)))));
+            this.managerBtn.Location = new System.Drawing.Point(221, 127);
+            this.managerBtn.Name = "managerBtn";
+            this.managerBtn.Size = new System.Drawing.Size(439, 94);
+            this.managerBtn.TabIndex = 0;
+            this.managerBtn.Text = "Manager";
+            this.managerBtn.UseVisualStyleBackColor = false;
+            this.managerBtn.Click += new System.EventHandler(this.managerBtn_Click);
             // 
-            // Cashier
+            // CashierBtn
             // 
-            Cashier.Location = new Point(424, 173);
-            Cashier.Name = "Cashier";
-            Cashier.Size = new Size(75, 23);
-            Cashier.TabIndex = 1;
-            Cashier.Text = "Cashier";
-            Cashier.UseVisualStyleBackColor = true;
-            Cashier.Click += Cashier_Click;
+            this.CashierBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(233)))), ((int)(((byte)(17)))));
+            this.CashierBtn.Location = new System.Drawing.Point(221, 249);
+            this.CashierBtn.Name = "CashierBtn";
+            this.CashierBtn.Size = new System.Drawing.Size(439, 94);
+            this.CashierBtn.TabIndex = 1;
+            this.CashierBtn.Text = "Cashier";
+            this.CashierBtn.UseVisualStyleBackColor = false;
+            this.CashierBtn.Click += new System.EventHandler(this.button2_Click);
             // 
             // Main
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(Cashier);
-            Controls.Add(Manager);
-            Name = "Main";
-            Text = "Main";
-            Load += Main_Load;
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::UI.Properties.Resources.background1;
+            this.ClientSize = new System.Drawing.Size(948, 626);
+            this.Controls.Add(this.CashierBtn);
+            this.Controls.Add(this.managerBtn);
+            this.Name = "Main";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Main_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
 
-        private Button Manager;
-        private Button Cashier;
+        private System.Windows.Forms.Button managerBtn;
+        private System.Windows.Forms.Button CashierBtn;
     }
 }
+

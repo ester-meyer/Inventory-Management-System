@@ -15,6 +15,13 @@ namespace UI
         public Cashier()
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("background.jpg");
+            BackgroundImageLayout = ImageLayout.Stretch;
+        }
+
+        private void Cashier_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

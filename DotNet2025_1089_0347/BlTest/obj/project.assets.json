@@ -100,23 +100,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Users\\משתמש\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BlTest\\obj\\",
+      "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+      "outputPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -132,11 +132,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BL.csproj": {
-              "projectPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\BL\\BL.csproj"
+            "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj": {
+              "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj"
             },
-            "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj": {
-              "projectPath": "F:\\seconde year\\cisharp\\project2\\‏‏from school - עותק\\C-project\\my-c-.net-project\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj"
+            "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj": {
+              "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj"
             }
           }
         }
@@ -150,8 +150,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -172,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

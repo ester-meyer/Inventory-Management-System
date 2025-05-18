@@ -34,3 +34,15 @@ F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\Tools\obj\Debug\To
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
 F:\seconde year\cisharp\project2\project\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.deps.json
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.pdb
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfo.cs
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.sourcelink.json
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
+E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll

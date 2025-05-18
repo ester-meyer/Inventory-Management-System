@@ -1,4 +1,12 @@
-﻿using BlApi;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace UI
 {
@@ -7,24 +15,13 @@ namespace UI
         public Manager()
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("background.jpg");
+            BackgroundImageLayout = ImageLayout.Stretch;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Manager_Load(object sender, EventArgs e)
         {
-            Operations operationsForm = new Operations(Type.Sale);
-            operationsForm.Show();
-        }
 
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            Operations operationsForm = new Operations(Type.Product);
-            operationsForm.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Operations operationsForm = new Operations(Type.Customer);
-            operationsForm.Show();
         }
     }
 }
