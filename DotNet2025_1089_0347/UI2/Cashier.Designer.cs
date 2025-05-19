@@ -1,6 +1,6 @@
 ﻿namespace UI
 {
-    partial class Manager
+    partial class Cashier
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // Manager
+            // Cashier
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Manager";
-            this.Text = "Manager";
-            this.Load += new System.EventHandler(this.Manager_Load);
+            this.ClientSize = new System.Drawing.Size(632, 407);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Name = "Cashier";
+            this.Text = "Cashier";
+            this.Load += new System.EventHandler(this.Cashier_Load);
             this.ResumeLayout(false);
 
         }

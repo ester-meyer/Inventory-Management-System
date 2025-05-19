@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace UI
 {
-    public partial class Manager : Form
+    public partial class Cashier : Form
     {
-        public Manager()
+        public Cashier()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("background.jpg");
+            this.BackgroundImage = Image.FromFile("second-background.jpg");
             BackgroundImageLayout = ImageLayout.Stretch;
         }
 
-        private void Manager_Load(object sender, EventArgs e)
+        private void Cashier_Load(object sender, EventArgs e)
         {
 
         }

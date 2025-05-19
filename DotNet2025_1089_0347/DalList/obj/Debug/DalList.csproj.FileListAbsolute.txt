@@ -67,3 +67,30 @@ E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.deps.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.sourcelink.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.Up2Date
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.deps.json
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalList.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CopyComplete
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll

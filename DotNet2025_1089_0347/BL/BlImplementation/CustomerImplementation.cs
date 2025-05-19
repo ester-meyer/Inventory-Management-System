@@ -55,7 +55,7 @@ internal class CustomerImplementation : BlApi.ICustomer
         }
         catch (DO.DalNotExistIdException DoException)
         {
-            throw new BLNotExistIdException("",DoException);
+            throw new BLNotExistIdException(DoException,"");
         }
     }
 

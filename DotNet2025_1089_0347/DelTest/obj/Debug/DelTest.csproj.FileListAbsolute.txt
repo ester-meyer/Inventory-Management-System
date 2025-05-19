@@ -81,3 +81,36 @@ E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.pdb
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.genruntimeconfig.cache
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\ref\DelTest.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.exe
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.deps.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.runtimeconfig.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.AssemblyReference.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfoInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfo.cs
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.CoreCompileInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.sourcelink.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.Up2Date
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\refint\DelTest.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.genruntimeconfig.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\ref\DelTest.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.exe
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.deps.json
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.runtimeconfig.json
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DelTest.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.CopyComplete
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\refint\DelTest.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.genruntimeconfig.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DelTest\obj\Debug\ref\DelTest.dll

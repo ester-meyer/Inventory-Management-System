@@ -15,6 +15,7 @@ namespace UI
         public Main()
         {
             InitializeComponent();
+
             this.BackgroundImage = Image.FromFile("background.jpg");
             BackgroundImageLayout = ImageLayout.Stretch;
         }
@@ -24,19 +25,22 @@ namespace UI
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Cashier cashier = new Cashier();
-            cashier.Show();
-        }
 
-        private void managerBtn_Click(object sender, EventArgs e)
+
+        private void managerBtn_Click_1(object sender, EventArgs e)
         {
             this.Hide();
             Manager manager = new Manager();
+            manager.FormClosed += (s, args) => this.Show();
             manager.Show();
+        }
 
+        private void cashierBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Cashier cashier = new Cashier();
+            cashier.FormClosed += (s, args) => this.Show();
+            cashier.Show();
         }
     }
 }

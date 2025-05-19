@@ -68,3 +68,26 @@ E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.deps.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.sourcelink.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.deps.json
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll

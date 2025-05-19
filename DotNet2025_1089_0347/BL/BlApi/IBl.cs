@@ -7,5 +7,4 @@ public interface IBl
     public IOrder Order { get; }
     public ISale Sale { get; }
 
-
 }

@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net7.0": {
       "BL/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "DalFacade": "1.0.0",
           "DalList": "1.0.0"
@@ -18,7 +18,7 @@
       },
       "DalFacade/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/DalFacade.dll": {}
         },
@@ -28,7 +28,7 @@
       },
       "DalList/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "DalFacade": "1.0.0",
           "Tools": "1.0.0"
@@ -42,7 +42,7 @@
       },
       "DelTest/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "DalFacade": "1.0.0",
           "DalList": "1.0.0"
@@ -56,7 +56,7 @@
       },
       "Tools/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Tools.dll": {}
         },
@@ -94,34 +94,34 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net7.0": [
       "BL >= 1.0.0",
       "DelTest >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\משתמש\\.nuget\\packages\\": {},
+    "C:\\Users\\ayalacohen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
-      "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\obj\\",
+      "projectPath": "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\BlTest.csproj",
+      "packagesPath": "C:\\Users\\ayalacohen\\.nuget\\packages\\",
+      "outputPath": "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ayalacohen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -129,14 +129,14 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj": {
-              "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj"
+            "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj": {
+              "projectPath": "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\BL\\BL.csproj"
             },
-            "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj": {
-              "projectPath": "E:\\התמחות תשפה\\Git\\Final-.NET\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj"
+            "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj": {
+              "projectPath": "T:\\יד\\שבבים\\C# מתקדם\\מינדי ויהודית\\C#.net\\Inventory-Management-System\\DotNet2025_1089_0347\\DelTest\\DelTest.csproj"
             }
           }
         }
@@ -145,16 +145,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -171,7 +166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

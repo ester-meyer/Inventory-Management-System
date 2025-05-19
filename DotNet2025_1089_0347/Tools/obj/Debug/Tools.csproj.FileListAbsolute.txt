@@ -46,3 +46,26 @@ E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
 E:\התמחות תשפה\Git\Final-.NET\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.deps.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.sourcelink.json
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
+M:\מינדי\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.deps.json
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\bin\Tools.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
+T:\יד\שבבים\C# מתקדם\מינדי ויהודית\C#.net\Inventory-Management-System\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll
